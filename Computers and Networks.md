@@ -20,7 +20,7 @@
        
       The internet it's a wire.
 
-![](../WhatsApp%20Image%202023-03-13%20at%2010.55.39%20AM.jpeg)
+![](https://imageshack.com/i/pncZqLkmj)
      
      
   Link for [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
