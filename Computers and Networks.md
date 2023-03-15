@@ -65,7 +65,7 @@
  
  10. ***What is a client and server?***
  Computers connected to the internet are called clients and servers. A simplified diagram of how they interact might look like this:
- ![](../Imagenes%20de%20Markdown/simple-client-server.png)
+ ![](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works/simple-client-server.png)
  
  11. #### ***Comparison Table***
  
