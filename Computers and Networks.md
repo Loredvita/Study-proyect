@@ -97,7 +97,8 @@
  
   ---
  
- ![](../Imagenes%20de%20Markdown/WhatsApp%20Image%202023-03-15%20at%208.11.30%20AM.jpeg)
+ ![](https://imagizer.imageshack.com/img924/3232/RGrlPj.jpg)
+ 
 
  --- 
  
