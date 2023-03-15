@@ -20,7 +20,7 @@
        
       The internet it's a wire.
 
-![](https://imageshack.com/i/pncZqLkmj)
+![](https://imagizer.imageshack.com/img923/3655/cZqLkm.jpg)
      
      
   Link for [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
