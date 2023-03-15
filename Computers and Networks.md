@@ -80,7 +80,7 @@
 - The DNS is the system of guides that allows you to search for web pages with the name that the person places in your browser.
 -   Is the procedure of having the IP on the server of a page whose name has been searched by the browser
 
- > ### @icon-info-circle Resolving name server
+ > ### :one: ***Resolving name server***
  > It receives the name of the domain and processes if it has that information, in case of not having it it sends it to The ROOT.
 
  > ### @icon-info-circle Root Server
