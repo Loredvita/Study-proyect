@@ -1,6 +1,4 @@
-# Foundation Course 
-
-> * #### How Does The Web Work? ***Assignment***
+## How Does The Web Work? ***Assignment***
   
   1.  ***Is windows an operating system or an application?***           
            Is a operating system because not the all application can download in this operating system  [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines). 
@@ -9,8 +7,7 @@
        in this one open source the code is open for other developers or people however close source use in video games and other programs they cant see the source code [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work).
        
  3. ***What is a web server?***
-        
-       Its a computer hunts information all around the world on internet.
+    Its a computer hunts information all around the world on internet.
 
  4. ***What is a network?*** 
  The network is the place all computers are connected, you will can connect as many computers as you wish, network is not a limited to two computers  [Read more.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
@@ -48,7 +45,7 @@
  
  --- 
  
- > ### @icon-info-circle Important info
+ > ### :white_circle: ***Important info***
  > **TCP/IP**: Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across the internet. This is like the transport mechanisms that let you place an order, go to the shop, and buy your goods. In our example, this is like a car or a bike (or however else you might get around).
 
  > **DNS**: Domain Name System is like an address book for websites. When you type a web address in your browser, the browser looks at the DNS to find the website's IP address before it can retrieve the website. The browser needs to find out which server the website lives on, so it can send HTTP messages to the right place (see below). This is like looking up the address of the shop so you can access it.
@@ -83,16 +80,16 @@
  > ### :one: ***Resolving name server***
  > It receives the name of the domain and processes if it has that information, in case of not having it it sends it to The ROOT.
 
- > ### @icon-info-circle Root Server
+ > ### :two: ***Root Server***
  > - The start of DNS.
  > - Thirteen root farms worldwide.
  > - Each set has a unique IP address. 
 
- > ### @icon-info-circle TLD Server
+ > ### 3️⃣ ***TLD Server***
  > - Stores top-level domain address information: 
  *Such as .COM, .NET, .ORG, etc.*
  
- > ### @icon-info-circle Authoritative Name Server 
+ > ### 4️⃣ ***Authoritative Name Server*** 
  > - They know everything about the domain, this includes IP addresses
  
   ---
