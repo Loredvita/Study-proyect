@@ -38,7 +38,7 @@
   It's an address made of a series of four numbers separated by dots, for example: 192.168.2.10 
   
             
- ![](../Imagenes%20de%20Markdown/internet-schema-7.png)
+ ![](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-7.png)
   
   7. ***What is a router?***
  The router have a only one job, t makes sure that a message sent from a given computer arrives at the right destination computer. [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
@@ -75,7 +75,7 @@
 |Website|A collection of web pages which are grouped together and usually connected together in various ways. Often called a "web site" or a "site."|
 |Web server|A computer that hosts a website on the Internet.|
 |Search Engine|A web service that helps you find other web pages, such as Google, Bing, Yahoo, or DuckDuckGo. Search engines are normally accessed through a web browser|
-
+---
 12. ***What is the DNS request?***
 - The DNS is the system of guides that allows you to search for web pages with the name that the person places in your browser.
 -   Is the procedure of having the IP on the server of a page whose name has been searched by the browser
