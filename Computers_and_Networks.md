@@ -1,4 +1,4 @@
-## How Does The Web Work? ***Assignment***
+## <p style="color:pink">How Does The Web Work? ***Assignment***</p>
   
   1.  ***Is windows an operating system or an application?***           
            Is a operating system because not the all application can download in this operating system  [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines). 
