@@ -1,11 +1,10 @@
-## <p style="color:pink">How Does The Web Work? ***Assignment***</p>
+## How Does The Web Work? ***Assignment***
   
   1.  ***Is windows an operating system or an application?***           
            Is a operating system because not the all application can download in this operating system  [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines). 
       
  2. ***What is the difference between open source and close source software?***
        &nbsp;&nbsp;&nbsp;in this one open source the code is open for other developers or people however close source use in video games and other programs they cant see the source code [More info](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work).
-
        
  3. ***What is a web server?***
     &nbsp;&nbsp;Its a computer hunts information all around the world on internet.

@@ -53,3 +53,9 @@ For example,
    - <ins>**git push**</ins>
 
    Remenber always stay in the <mark>correct folder!<mark>
+ 
+ ---
+   ## <ins>how create a new folder and files</mark>
+
+   1. Create a folder with command <ins>mkdir</ins>
+2. Create a file with command <ins>touch</ins>
