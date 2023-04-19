@@ -1,0 +1,19 @@
+.container{
+display: flex;
+height: 300px;
+width: 350px;
+background: rgb(125, 183, 248);
+align-items: center;
+justify-content: center;
+border: 4px solid rgb(9, 50, 138);
+}
+.box {
+width: 80px;
+height: 80px;
+border: 6px solid rgb(136, 10, 10);
+background: rgb(235, 135, 148);
+text-align: center;
+font-weight: 700;
+justify-content: center;
+
+}
