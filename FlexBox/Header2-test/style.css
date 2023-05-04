@@ -1,16 +1,32 @@
 .header{
-   background-color: rgb(255, 255, 255); 
    display: flex;
+   background-color: rgb(255, 255, 255); 
    align-items: center;
-   box-shadow: 10px rgb(128, 128, 128);
-   padding: 10px;
+   padding: 15px;
    justify-content: space-between;
+  
 }
+body{
+    background-color: rgb(223, 216, 216);
+}
+.logo{
+    color: rgb(138, 43, 227);
+}
+.profile-image{
+    background-color: blueviolet;
+    box-shadow: inset 1px 5px 5px hwb(271 6% 51%);
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+}
+
 .start-flex{
     display: flex;
     align-items: center;
     gap: 10px;
-    
+}
+.end-flex{
+    display: flex;
 }
 ul{
     display: flex;
