@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    /*gap bajo*/
+    padding-bottom: 32px;
+    font-weight: 900;
+}
+.container-plants{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+.plants{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 200px;
+    text-align: center;
+    margin: 32px;
+}
+img{
+    width: 125px;
+    height: 125px;
+}
