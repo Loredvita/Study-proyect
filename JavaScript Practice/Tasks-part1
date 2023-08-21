@@ -1,6 +1,16 @@
+// Task one
+
 let admin;
 let name = Jhon;
 admin = name;
-alert( name );
+alert( name ); //Jhon
 
+// Task two
+
+let ourplanet = Earth;
+let currentVisitor = Visitor // Correct answer in the next line
+
+let currentUserName = Jhon;
+
+//
 
