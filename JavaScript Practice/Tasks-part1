@@ -1,9 +1,12 @@
 // Task one
 
-let admin;
-let name = Jhon; 
-name = admin;
-alert( name ); //Jhon
+let admin , nami;
+ 
+nami = "Jhon";
+
+admin = nami;
+
+alert( admin );
 
 // Task two
 
