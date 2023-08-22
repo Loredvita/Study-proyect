@@ -1,8 +1,8 @@
 // Task one
 
 let admin;
-let name = Jhon;
-admin = name;
+let name = Jhon; 
+name = admin;
 alert( name ); //Jhon
 
 // Task two
